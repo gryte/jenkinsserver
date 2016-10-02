@@ -1,0 +1,7 @@
+name 'jenkinsserver'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures jenkinsserver'
+long_description 'Installs/Configures jenkinsserver'
+version '0.1.0'
