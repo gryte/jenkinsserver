@@ -33,5 +33,5 @@ end
 
 # jenkins service
 service 'jenkins' do
-  action [ :enable, :start ]
+  action [:enable, :start]
 end
