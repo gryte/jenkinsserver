@@ -17,3 +17,9 @@ end
 describe package('java-1.7.0-openjdk') do
   it { should be_installed }
 end
+
+# jenkins service is enabled and running
+describe service('jenkins') do
+  it { should be_installed }
+  it { should be_running }
+end
