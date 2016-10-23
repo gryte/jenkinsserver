@@ -27,7 +27,8 @@ kitchen test
 
 ## Release History
 
-* _pending release_
+* 1.0.0
+    * initial release
 
 ## Meta
 
